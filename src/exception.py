@@ -13,7 +13,7 @@ class CustomException(Exception):
     def __init__(self, error):
         error_details = get_error_details(error)
         super().__init__(error_details)
-        self.error_details = error_details
+        # self.error_details = error_details
 
 
 

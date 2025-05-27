@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# word documentation
+Steps followed for resume.docx
+# To avoid opened files to be added
+~$*
